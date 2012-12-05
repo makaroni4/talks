@@ -1,9 +1,9 @@
-RubyTalks
+Talks
 =========
 
-Collection of Ruby related talks
+Collection of talks about programming.
 
 # 2011
 ### ["Double Dream Hands: So Intense!"](http://www.youtube.com/watch?v=kWOAHIpmLAI) by [@tenderlove](https://github.com/tenderlove) at RailsConf 2011
 ### ["Assets pipeline and more in Rails3"](http://www.youtube.com/watch?v=cGdCI2HhfAU&feature=relmfu) by [@dhh](https://github.com/dhh) at RailsConf 2011
-
+### ["Collaborative filtering at scale"](http://vimeo.com/25178722) by [@srowen](https://github.com/srowen) at 2nd BigData London meetup
