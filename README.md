@@ -3,6 +3,9 @@ Talks
 
 Collection of talks about programming.
 
+#2012
+### ["Inventing on Principle"](https://vimeo.com/36579366) by [Bret Victor](http://worrydream.com/) at [Cusec2012](http://2012.cusec.net/)
+
 # 2011
 ### ["Double Dream Hands: So Intense!"](http://www.youtube.com/watch?v=kWOAHIpmLAI) by [@tenderlove](https://github.com/tenderlove) at RailsConf 2011
 ### ["Assets pipeline and more in Rails3"](http://www.youtube.com/watch?v=cGdCI2HhfAU&feature=relmfu) by [@dhh](https://github.com/dhh) at RailsConf 2011
