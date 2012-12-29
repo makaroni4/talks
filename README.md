@@ -5,6 +5,7 @@ Collection of talks about programming.
 
 #2012
 ### ["Inventing on Principle"](https://vimeo.com/36579366) by [Bret Victor](http://worrydream.com/) at [Cusec2012](http://2012.cusec.net/)
+### ["Machine Learning for Fun and Profit"](http://www.youtube.com/watch?v=snGGkCt4zQ0) by [Chris Nelson](https://github.com/superchris) at RubyConf 2012
 
 # 2011
 ### ["Double Dream Hands: So Intense!"](http://www.youtube.com/watch?v=kWOAHIpmLAI) by [@tenderlove](https://github.com/tenderlove) at RailsConf 2011
